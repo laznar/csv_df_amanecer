@@ -1,0 +1,17 @@
+{
+    "locations":[    
+    {"sucursal":"YOPAL", "lat":5.340170, "lon":-72.394241},
+    {"sucursal":"PAZ DE ARIPORO", "lat":5.881430, "lon":-71.891970},
+    {"sucursal":"VILLAVICENCIO", "lat":4.144230, "lon":-73.634529},
+    {"sucursal":"SOGAMOSO", "lat":5.718310, "lon": -72.930980},
+    {"sucursal":"GRANADA", "lat":3.544340, "lon": -73.707810},
+    {"sucursal":"ACACÍAS", "lat":3.9917056, "lon": -73.7836386},
+    {"sucursal":"AGUAZUL", "lat":5.1686185, "lon": -72.5723237},
+    {"sucursal":"VILLANUEVA", "lat":4.6112946, "lon": -72.9468647},
+    {"sucursal":"MONTERREY", "lat":4.8779648, "lon": -72.9046758},
+    {"sucursal": "CUMARAL", "lat":4.272180, "lon": -73.487680},
+    {"sucursal": "TAME", "lat":6.461250, "lon": -71.734261},
+    {"sucursal": "TAURAMENA", "lat":5.016520, "lon": -72.750930},
+    {"sucursal": "DUITAMA", "lat":5.826960, "lon": -73.034409},
+    {"sucursal": "TUNJA", "lat":5.544642, "lon": -73.357559}
+]}  
